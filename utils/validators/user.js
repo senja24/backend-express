@@ -1,5 +1,4 @@
 const { body } = require("express-validator");
-
 const prisma = require("../../prisma/client");
 
 const validateUser = [
